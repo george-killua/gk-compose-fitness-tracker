@@ -1,5 +1,7 @@
 # GK Compose Fitness Tracker
 
+![GK Compose Fitness Tracker preview](docs/preview.svg)
+
 Jetpack Compose fitness tracker demo by **GK Coding**.
 
 This project demonstrates a clean Android product UI for workouts, habits, calories, and progress tracking.
@@ -13,14 +15,16 @@ This project demonstrates a clean Android product UI for workouts, habits, calor
 - Habit progress tracking
 - Dashboard stats
 
-## Run
+## Tech
+
+`Kotlin` · `Jetpack Compose` · `Material 3` · `Android Studio`
+
+## Verify
 
 ```bash
 ./gradlew :app:assembleDebug
 ```
 
-Open the project in Android Studio and run the `app` configuration.
-
 ## Purpose
 
-This is a portfolio/demo project for showing Android UI implementation, information hierarchy, and state-ready product screens.
+Portfolio/demo project for showing Android UI implementation, information hierarchy, and state-ready product screens.
